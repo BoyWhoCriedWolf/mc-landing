@@ -1,4 +1,3 @@
-import profile from "../assets/Profile.jpg";
 
 export const About = () => {
   return (

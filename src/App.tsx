@@ -5,7 +5,7 @@ import { About } from "./components/About";
 import { MultiProtocol } from "./components/MultiProtocol";
 import { Navbar } from "./components/Navbar";
 import { ScrollToTop } from "./components/ScrollToTop";
-import { Schedule } from "./components/Schedule";
+// import { Schedule } from "./components/Schedule";
 import { Partner } from "./components/Partner";
 import "./App.css";
 
@@ -19,7 +19,7 @@ function App() {
       <MultiProtocol />
       <Partner />
       <MoreClient />
-      <Schedule />
+      {/* <Schedule /> */}
       {/* <Cta /> */}
       {/* <Team /> */}
       {/* <Pricing /> */}
