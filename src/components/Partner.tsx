@@ -41,7 +41,7 @@ export const Partner = () => {
         <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
           Partner With Creator & Take Rev Share In Business
         </h2>
-        <div className="grid grid-cols-2 gap-8">
+        <div className="grid lg:grid-cols-2 gap-8">
           {PartnerList.map(({ title }: PartnerProps) => (
             <Card key={title} className="bg-muted/50">
               <CardHeader className="space-y-1 flex md:flex-row justify-start items-start gap-4">

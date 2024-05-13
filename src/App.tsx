@@ -7,6 +7,7 @@ import { ScrollToTop } from "./components/ScrollToTop";
 // import { Schedule } from "./components/Schedule";
 import { Partner } from "./components/Partner";
 import "./App.css";
+// import { Cta } from "./components/Cta";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Partner />
       <MoreClient />
       {/* <Schedule /> */}
+      {/* <Cta /> */}
       <Footer />
       <ScrollToTop />
     </>

@@ -1,11 +1,11 @@
 export const About = () => {
   return (
-    <section className="container grid lg:grid-cols-2 place-items-center py-20 md:py-44 gap-12 h-screen">
+    <section className="container grid lg:grid-cols-2 place-items-center py-20 md:py-44 gap-12">
       {/* <div className="bg-muted/50 rounded-lg"> */}
       <div className="w-full border border-primary/60 h-96 bg-muted/50 rounded-lg"></div>
       {/* </div> */}
       <div className="text-center lg:text-start space-y-6">
-        <main className="text-5xl md:text-6xl font-bold">
+        <main className="text-4xl lg:text-5xl md:text-6xl font-bold">
           <h1 className="inline">
             <span className="inline bg-gradient-to-r from-[#F596D3]  to-[#D247BF] text-transparent bg-clip-text">
               Agency Owners&nbsp;
