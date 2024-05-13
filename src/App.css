@@ -93,7 +93,7 @@
   }
 
   .dark {
-    --background: 20 14.3% 4.1%;
+    --background: radial-gradient(circle at center bottom, rgba(4, 34, 54, 1) 0%, rgba(0, 10, 15, 1) 100%);
     --foreground: 0 0% 95%;
     --card: 24 9.8% 10%;
     --card-foreground: 0 0% 95%;

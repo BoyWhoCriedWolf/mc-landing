@@ -14,17 +14,11 @@ function App() {
     <>
       <Navbar />
       <About />
-      {/* <Sponsors /> */}
       <WatchVideo />
       <MultiProtocol />
       <Partner />
       <MoreClient />
       {/* <Schedule /> */}
-      {/* <Cta /> */}
-      {/* <Team /> */}
-      {/* <Pricing /> */}
-      {/* <Newsletter /> */}
-      {/* <FAQ />s */}
       <Footer />
       <ScrollToTop />
     </>
