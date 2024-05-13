@@ -43,7 +43,7 @@ export const Partner = () => {
         </h2>
         <div className="grid grid-cols-2 gap-8">
           {PartnerList.map(({ title }: PartnerProps) => (
-            <Card key={title}>
+            <Card key={title} className="bg-muted/50">
               <CardHeader className="space-y-1 flex md:flex-row justify-start items-start gap-4">
                 {/* <div className="mt-1 bg-primary/20 p-1 rounded-2xl">
                     {icon}

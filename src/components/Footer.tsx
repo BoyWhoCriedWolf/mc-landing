@@ -16,7 +16,7 @@ export const Footer = () => {
           </a>
         </div>
         <h3 className="text-center">
-          &copy; 2024
+          &copy; 2024 MutltiplyClient.io
         </h3>
       </section>
 
