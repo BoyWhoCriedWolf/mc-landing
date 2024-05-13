@@ -1,4 +1,3 @@
-import { WatchVideo } from "./components/WatchVideo";
 import { MoreClient } from "./components/MoreClient";
 import { Footer } from "./components/Footer";
 import { About } from "./components/About";
@@ -14,7 +13,6 @@ function App() {
     <>
       <Navbar />
       <About />
-      <WatchVideo />
       <MultiProtocol />
       <Partner />
       <MoreClient />
