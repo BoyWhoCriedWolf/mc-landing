@@ -36,7 +36,8 @@ const PartnerList: PartnerProps[] = [
 
 export const Partner = () => {
   return (
-    <section className="container py-24 sm:py-32">
+    <section className="container py-24 sm:py-32 relative">
+      <div className="shadow-left-side"></div>
       <div>
         <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
           Partner With Creator & Take Rev Share In Business

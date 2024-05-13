@@ -1,6 +1,6 @@
 export const About = () => {
   return (
-    <section className="container grid lg:grid-cols-2 place-items-center py-20 md:py-44 gap-12">
+    <section className="container grid lg:grid-cols-2 place-items-center py-20 md:py-44 gap-12 relative">
       {/* <div className="bg-muted/50 rounded-lg"> */}
       <div className="w-full border border-primary/60 h-96 bg-muted/50 rounded-lg"></div>
       {/* </div> */}
@@ -29,7 +29,7 @@ export const About = () => {
           $15,000/Mo-$30,000/Mo)
         </p>
       </div>
-      <div className="shadow">
+      <div className="shadow-right-side">
 
       </div>
     </section>

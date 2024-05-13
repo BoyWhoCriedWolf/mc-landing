@@ -6,6 +6,7 @@ import { Navbar } from "./components/Navbar";
 import { ScrollToTop } from "./components/ScrollToTop";
 // import { Schedule } from "./components/Schedule";
 import { Partner } from "./components/Partner";
+import { ClientCaseStudies } from "./components/ClientCaseStudies";
 import "./App.css";
 // import { Cta } from "./components/Cta";
 
@@ -14,6 +15,7 @@ function App() {
     <>
       <Navbar />
       <About />
+      <ClientCaseStudies />
       <MultiProtocol />
       <Partner />
       <MoreClient />

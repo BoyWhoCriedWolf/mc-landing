@@ -48,7 +48,7 @@ const features: MultiProtocolProps[] = [
 
 export const MultiProtocol = () => {
   return (
-    <section className="container text-center py-24 sm:py-32">
+    <section className="container text-center py-24 sm:py-32 relative">
       <h2 className="text-3xl md:text-4xl font-bold mb-12">
         Multiply Protocol Breakdown
       </h2>
@@ -66,6 +66,7 @@ export const MultiProtocol = () => {
           </Card>
         ))}
       </div>
+      <div className="shadow-right-side"></div>
     </section>
   );
 };
