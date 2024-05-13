@@ -6,31 +6,31 @@ interface PartnerProps {
 
 const PartnerList: PartnerProps[] = [
   {
-    title: "● 1-1 Partnership Channel With Luke & Harvey",
+    title: "1-1 Partnership Channel With Luke & Harvey",
   },
   {
-    title: "● Weekly Group Calls",
+    title: "Weekly Group Calls",
   },
   {
-    title: "● Personalised Gameplan To $15-30K/Mo",
+    title: "Personalised Gameplan To $15-30K/Mo",
   },
   {
-    title: "● Access To Live Recordings + Trainings",
+    title: "Access To Live Recordings + Trainings",
   },
   {
-    title: "● 6 1-1 Growth Coaching Calls",
+    title: "6 1-1 Growth Coaching Calls",
   },
   {
-    title: "● Built Appointment Setting System",
+    title: "Built Appointment Setting System",
   },
   {
-    title: "● Free Setter, Creative Director, Closer, Dialler Hiring Access",
+    title: "Free Setter, Creative Director, Closer, Dialler Hiring Access",
   },
   {
-    title: "● Automated Data Tracking Sheets",
+    title: "Automated Data Tracking Sheets",
   },
   {
-    title: "● 7 Figure Sales Training (Sales Coach)",
+    title: "7 Figure Sales Training (Sales Coach)",
   },
 ];
 

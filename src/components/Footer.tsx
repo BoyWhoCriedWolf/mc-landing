@@ -15,7 +15,7 @@ export const Footer = () => {
           </a>
         </div>
         <h3 className="text-center flex lg:block hidden">
-          <span>&copy; 2024</span>
+          <span className="mr-1">&copy; 2024</span>
           <span>MutltiplyClient.io</span>
         </h3>
       </section>
