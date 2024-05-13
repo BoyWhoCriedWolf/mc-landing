@@ -31,11 +31,10 @@ const features: ClientProps[] = [
 
 export const MoreClient = () => {
   return (
-    <section id="features" className="container py-24 sm:py-32 space-y-8">
+    <section id="features" className="container py-24 sm:py-32 space-y-8 h-screen">
       <h2 className="text-3xl lg:text-4xl font-bold md:text-center">
         More Client Results
       </h2>
-
       <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-20">
         {features.map(({ title, description, image }: ClientProps) => (
           <Card key={title} className="bg-muted/50">
